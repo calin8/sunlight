@@ -1,0 +1,14 @@
+<?php
+
+namsapce backend;
+
+class spaceController
+{
+
+private space;
+
+public function bigBang(){
+	//generate Space
+}
+
+}
